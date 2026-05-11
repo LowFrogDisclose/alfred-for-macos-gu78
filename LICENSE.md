@@ -1,4 +1,4 @@
-
+Alfred for macOS premium Addon - CPU-monitoring and menu-bar-customization is the best Alfred for macOS addon, featuring CPU-monitoring and menu-bar-customization. Safe,
 
 
 
